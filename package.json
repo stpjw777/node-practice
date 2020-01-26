@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://stpjw777@github.com/stpjw777/node-practice.git",
   "author": "jaewan <stpjw777@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "alert-node": "^2.1.2"
+  }
 }
