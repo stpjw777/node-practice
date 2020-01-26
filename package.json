@@ -1,0 +1,8 @@
+{
+  "name": "node-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://stpjw777@github.com/stpjw777/node-practice.git",
+  "author": "jaewan <stpjw777@gmail.com>",
+  "license": "MIT"
+}
